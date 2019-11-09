@@ -1,4 +1,4 @@
-import nmap
+
 from termcolor import colored
 import sys
 import os
